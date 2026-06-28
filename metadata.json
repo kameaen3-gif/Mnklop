@@ -1,0 +1,6 @@
+{
+  "name": "طبیب حکیم - مزاج‌شناسی",
+  "description": "سامانه تخصصی مزاج‌شناسی و توصیه‌های طب سنتی و اسلامی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
